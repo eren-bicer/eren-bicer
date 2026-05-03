@@ -21,8 +21,8 @@ As a **11th-grade student** and passionate software developer, I **work on devel
 
 ### 📊 GitHub Statistics
 
-![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=eren-bicer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren-bicer&layout=compact&theme=radical)
 
 
 -I enjoy combining software with real-world systems, from robots to mobile apps.-
