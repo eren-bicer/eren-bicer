@@ -19,10 +19,7 @@ As a **11th-grade student** and passionate software developer, I **work on devel
 *   **Architecture & Clean Code:** My primary goal is to move beyond just "making it work" and focus on **clean architecture** and maintainable code structures.
 
 
-### 📊 GitHub Statistics
 
-![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=eren-bicer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren-bicer&layout=compact&theme=radical)
-
+![Repos](https://github.com/eren-bicer?tab=repositories)
 
 -I enjoy combining software with real-world systems, from robots to mobile apps.-
